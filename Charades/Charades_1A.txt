@@ -1,0 +1,49 @@
+c001 Putting clothes somewhere
+c002 Taking some clothes from somewhere
+c003 Throwing clothes somewhere
+c004 Tidying some clothes
+c006 Closing a door
+c008 Opening a door
+c017 Putting a phone/camera somewhere
+c018 Taking a phone/camera from somewhere
+c019 Talking on a phone/camera
+c059 Sitting in a chair
+c060 Standing on a chair
+c062 Putting some food somewhere
+c063 Taking food from somewhere
+c064 Throwing food somewhere
+c065 Eating a sandwich
+c068 Putting a sandwich somewhere
+c069 Taking a sandwich from somewhere
+c071 Putting a blanket somewhere
+c072 Snuggling with a blanket
+c073 Taking a blanket from somewhere
+c074 Throwing a blanket somewhere
+c075 Tidying up a blanket/s
+c077 Putting a pillow somewhere
+c078 Snuggling with a pillow
+c079 Taking a pillow from somewhere
+c080 Throwing a pillow somewhere
+c089 Closing a window
+c090 Opening a window
+c104 Turning on a light
+c105 Turning off a light
+c112 Closing a closet/cabinet
+c113 Opening a closet/cabinet
+c114 Tidying up a closet/cabinet
+c116 Putting their paper/notebook somewhere
+c117 Taking paper/notebook from somewhere
+c125 Sitting on the floor
+c126 Throwing something on the floor
+c127 Tidying something on the floor
+c129 Taking/consuming some medicine
+c133 Someone is awakening in bed
+c135 Sitting in a bed
+c138 Taking a vacuum from somewhere
+c142 Closing a refrigerator
+c143 Opening a refrigerator
+c145 Working on paper/notebook
+c147 Someone is cooking something
+c148 Someone is dressing
+c155 Someone is undressing
+c156 Someone is eating something

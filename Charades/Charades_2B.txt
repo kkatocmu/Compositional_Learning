@@ -1,0 +1,31 @@
+c013 Washing a table
+c020 Holding a bag
+c026 Holding a book
+c032 Watching/Reading/Looking at a book
+c033 Holding a towel/s
+c038 Washing something with a towel
+c040 Holding a box
+c044 Taking something from a box
+c047 Holding a laptop
+c051 Watching a laptop or something on a laptop
+c052 Working/Playing on a laptop
+c053 Holding a shoe/shoes
+c084 Holding a picture
+c085 Laughing at a picture
+c088 Watching/looking at a picture
+c093 Holding a mirror
+c095 Washing a mirror
+c096 Watching something/someone/themselves in a mirror
+c097 Walking through a doorway
+c098 Holding a broom
+c102 Tidying up with a broom
+c106 Drinking from a cup/glass/bottle
+c107 Holding a cup/glass/bottle of something
+c111 Washing a cup/glass/bottle
+c118 Holding a dish
+c121 Wash a dish/dishes
+c122 Lying on a sofa/couch
+c139 Washing their hands
+c140 Fixing a doorknob
+c141 Grasping onto a doorknob
+c144 Fixing their hair

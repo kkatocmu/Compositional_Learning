@@ -1,0 +1,47 @@
+c009 Putting something on a table
+c010 Sitting on a table
+c012 Tidying up a table
+c014 Working at a table
+c021 Opening a bag
+c022 Putting a bag somewhere
+c023 Taking a bag from somewhere
+c024 Throwing a bag somewhere
+c025 Closing a book
+c027 Opening a book
+c028 Putting a book somewhere
+c029 Smiling at a book
+c030 Taking a book from somewhere
+c031 Throwing a book somewhere
+c034 Putting a towel/s somewhere
+c035 Taking a towel/s from somewhere
+c036 Throwing a towel/s somewhere
+c037 Tidying up a towel/s
+c039 Closing a box
+c041 Opening a box
+c042 Putting a box somewhere
+c043 Taking a box from somewhere
+c045 Throwing a box somewhere
+c046 Closing a laptop
+c048 Opening a laptop
+c049 Putting a laptop somewhere
+c050 Taking a laptop from somewhere
+c054 Putting shoes somewhere
+c055 Putting on shoe/shoes
+c056 Taking shoes from somewhere
+c057 Taking off some shoes
+c058 Throwing shoes somewhere
+c081 Putting something on a shelf
+c082 Tidying a shelf or something on a shelf
+c083 Reaching for and grabbing a picture
+c086 Putting a picture somewhere
+c094 Smiling in a mirror
+c099 Putting a broom somewhere
+c100 Taking a broom from somewhere
+c101 Throwing a broom somewhere
+c108 Pouring something into a cup/glass/bottle
+c109 Putting a cup/glass/bottle somewhere
+c110 Taking a cup/glass/bottle from somewhere
+c119 Putting a dish/es somewhere
+c120 Taking a dish/es from somewhere
+c123 Sitting on sofa/couch
+c130 Putting groceries somewhere

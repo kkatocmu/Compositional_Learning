@@ -1,0 +1,22 @@
+c000 Holding some clothes
+c005 Washing some clothes
+c007 Fixing a door
+c015 Holding a phone/camera
+c016 Playing with a phone/camera
+c061 Holding some food
+c066 Making a sandwich
+c067 Holding a sandwich
+c070 Holding a blanket
+c076 Holding a pillow
+c087 Taking a picture of something
+c091 Washing a window
+c092 Watching/Looking outside of a window
+c103 Fixing a light
+c115 Someone is holding a paper/notebook
+c124 Lying on the floor
+c128 Holding some medicine
+c131 Laughing at television
+c132 Watching television
+c134 Lying on a bed
+c136 Fixing a vacuum
+c137 Holding a vacuum

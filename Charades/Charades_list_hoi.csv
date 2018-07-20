@@ -1,0 +1,149 @@
+c000 Holding some clothes;hold;clothes,clothes,hold
+c001 Putting clothes somewhere;put;clothes,clothes,put
+c002 Taking some clothes from somewhere;take;clothes,clothes,take
+c003 Throwing clothes somewhere;throw;clothes,clothes,throw
+c004 Tidying some clothes;tidy;clothes,clothes,tidy
+c005 Washing some clothes;wash;clothes,clothes,wash
+c006 Closing a door;close;door,door,close
+c007 Fixing a door;fix;door,door,fix
+c008 Opening a door;open;door,door,open
+c009 Putting something on a table;put;table,table,put
+c010 Sitting on a table;sit;table,table,sit
+c012 Tidying up a table;tidy;table,table,tidy
+c013 Washing a table;wash;table,table,wash
+c014 Working at a table;work;table,table,work
+c015 Holding a phone;hold;phone,phone,hold
+c016 Playing with a phone;play;phone,phone,play
+c017 Putting a phone somewhere;put;phone,phone,put
+c018 Taking a phone from somewhere;take;phone,phone,take
+c019 Talking on a phone;talk;phone,phone,talk
+c020 Holding a bag;hold;bag,bag,hold
+c021 Opening a bag;open;bag,bag,open
+c022 Putting a bag somewhere;put;bag,bag,put
+c023 Taking a bag from somewhere;take;bag,bag,take
+c024 Throwing a bag somewhere;throw;bag,bag,throw
+c025 Closing a book;close;book,book,close
+c026 Holding a book;hold;book,book,hold
+c027 Opening a book;open;book,book,open
+c028 Putting a book somewhere;put;book,book,put
+c029 Smiling at a book;smile;book,book,smile
+c030 Taking a book from somewhere;take;book,book,take
+c031 Throwing a book somewhere;throw;book,book,throw
+c032 Watching/Reading/Looking at a book;watch;book,book,watch
+c033 Holding a towel/s;hold;towel,towel,hold
+c034 Putting a towel/s somewhere;put;towel,towel,put
+c035 Taking a towel/s from somewhere;take;towel,towel,take
+c036 Throwing a towel/s somewhere;throw;towel,towel,throw
+c037 Tidying up a towel/s;tidy;towel,towel,tidy
+c038 Washing something with a towel;use;towel,towel,use
+c039 Closing a box;close;box,box,close
+c040 Holding a box;hold;box,box,hold
+c041 Opening a box;open;box,box,open
+c042 Putting a box somewhere;put;box,box,put
+c043 Taking a box from somewhere;take;box,box,take
+c044 Taking something from a box;empty;box,box,empty
+c045 Throwing a box somewhere;throw;box,box,throw
+c046 Closing a laptop;close;laptop,laptop,close
+c047 Holding a laptop;hold;laptop,laptop,hold
+c048 Opening a laptop;open;laptop,laptop,open
+c049 Putting a laptop somewhere;put;laptop,laptop,put
+c050 Taking a laptop from somewhere;take;laptop,laptop,take
+c051 Watching a laptop or something on a laptop;watch;laptop,laptop,watch
+c052 Working/Playing on a laptop;play;laptop,laptop,play
+c053 Holding a shoe/shoes;hold;shoe,shoe,hold
+c054 Putting shoes somewhere;put;shoe,shoe,put
+c055 Putting on shoe/shoes;dress;shoe,shoe,dress
+c056 Taking shoes from somewhere;take;shoe,shoe,take
+c057 Taking off some shoes;undress;shoe,shoe,undress
+c058 Throwing shoes somewhere;throw;shoe,shoe,throw
+c059 Sitting in a chair;sit;chair,chair,sit
+c060 Standing on a chair;stand;chair,chair,stand
+c061 Holding some food;hold;food,food,hold
+c062 Putting some food somewhere;put;food,food,put
+c063 Taking food from somewhere;take;food,food,take
+c064 Throwing food somewhere;throw;food,food,throw
+c065 Eating a sandwich;eat;sandwich,sandwich,eat
+c066 Making a sandwich;make;sandwich,sandwich,make
+c067 Holding a sandwich;hold;sandwich,sandwich,hold
+c068 Putting a sandwich somewhere;put;sandwich,sandwich,put
+c069 Taking a sandwich from somewhere;take;sandwich,sandwich,take
+c070 Holding a blanket;hold;blanket,blanket,hold
+c071 Putting a blanket somewhere;put;blanket,blanket,put
+c072 Snuggling with a blanket;snuggle;blanket,blanket,snuggle
+c073 Taking a blanket from somewhere;take;blanket,blanket,take
+c074 Throwing a blanket somewhere;throw;blanket,blanket,throw
+c075 Tidying up a blanket/s;tidy;blanket,blanket,tidy
+c076 Holding a pillow;hold;pillow,pillow,hold
+c077 Putting a pillow somewhere;put;pillow,pillow,put
+c078 Snuggling with a pillow;snuggle;pillow,pillow,snuggle
+c079 Taking a pillow from somewhere;take;pillow,pillow,take
+c080 Throwing a pillow somewhere;throw;pillow,pillow,throw
+c081 Putting something on a shelf;put;shelf,shelf,put
+c082 Tidying a shelf or something on a shelf;tidy;shelf,shelf,tidy
+c083 Reaching for and grabbing a picture;take;picture,picture,take
+c084 Holding a picture;hold;picture,picture,hold
+c085 Laughing at a picture;laugh;picture,picture,laugh
+c086 Putting a picture somewhere;put;picture,picture,put
+c087 Taking a picture of something;photograph;phone,phone,photograph
+c088 Watching/looking at a picture;watch;picture,picture,watch
+c089 Closing a window;close;window,window,close
+c090 Opening a window;open;window,window,open
+c091 Washing a window;wash;window,window,wash
+c092 Watching/Looking outside of a window;watch;window,window,watch
+c093 Holding a mirror;hold;mirror,mirror,hold
+c094 Smiling in a mirror;smile;mirror,mirror,smile
+c095 Washing a mirror;wash;mirror,mirror,wash
+c096 Watching something/someone/themselves in a mirror;watch;mirror,mirror,watch
+c097 Walking through a doorway;walk;doorway,doorway,walk
+c098 Holding a broom;hold;broom,broom,hold
+c099 Putting a broom somewhere;put;broom,broom,put
+c100 Taking a broom from somewhere;take;broom,broom,take
+c101 Throwing a broom somewhere;throw;broom,broom,throw
+c102 Tidying up with a broom;use;broom,broom,use
+c103 Fixing a light;fix;light,light,fix
+c104 Turning on a light;power;light,light,power
+c105 Turning off a light;extinguish;light,light,extinguish
+c106 Drinking from a cup;drink;cup,cup,drink
+c107 Holding a cup of something;hold;cup,cup,hold
+c108 Pouring something into a cup;pour;cup,cup,pour
+c109 Putting a cup somewhere;put;cup,cup,put
+c110 Taking a cup from somewhere;take;cup,cup,take
+c111 Washing a cup;wash;cup,cup,wash
+c112 Closing a closet/cabinet;close;cabinet,cabinet,close
+c113 Opening a closet/cabinet;open;cabinet,cabinet,open
+c114 Tidying up a closet/cabinet;tidy;cabinet,cabinet,tidy
+c115 Someone is holding a paper;hold;paper,paper,hold
+c116 Putting their paper somewhere;put;paper,paper,put
+c117 Taking paper from somewhere;take;paper,paper,take
+c118 Holding a dish;hold;dish,dish,hold
+c119 Putting a dish/es somewhere;put;dish,dish,put
+c120 Taking a dish/es from somewhere;take;dish,dish,take
+c121 Wash a dish/dishes;wash;dish,dish,wash
+c122 Lying on a sofa/couch;lie;couch,couch,lie
+c123 Sitting on sofa/couch;sit;couch,couch,sit
+c124 Lying on the floor;lie;floor,floor,lie
+c125 Sitting on the floor;sit;floor,floor,sit
+c126 Throwing something on the floor;throw;floor,floor,throw
+c127 Tidying something on the floor;tidy;floor,floor,tidy
+c128 Holding some medicine;hold;medicine,medicine,hold
+c129 Taking/consuming some medicine;eat;medicine,medicine,eat
+c130 Putting groceries somewhere;put;groceries,groceries,put
+c131 Laughing at television;laugh;television,television,laugh
+c132 Watching television;watch;television,television,watch
+c133 Someone is awakening in bed;awaken;bed,bed,awaken
+c134 Lying on a bed;lie;bed,bed,lie
+c135 Sitting in a bed;sit;bed,bed,sit
+c136 Fixing a vacuum;fix;vacuum,vacuum,fix
+c137 Holding a vacuum;hold;vacuum,vacuum,hold
+c138 Taking a vacuum from somewhere;take;vacuum,vacuum,take
+c139 Washing their hands;wash;hands,hands,wash
+c140 Fixing a doorknob;fix;doorknob,doorknob,fix
+c141 Grasping onto a doorknob;grasp;doorknob,doorknob,grasp
+c142 Closing a refrigerator;close;refrigerator,refrigerator,close
+c143 Opening a refrigerator;open;refrigerator,refrigerator,open
+c144 Fixing their hair;fix;hair,hair,fix
+c145 Working on paper;work;paper,paper,work
+c147 Someone is cooking something;cook;food,food,cook
+c148 Someone is dressing;dress;clothes,clothes,dress
+c155 Someone is undressing;undress;clothes,clothes,undress
+c156 Someone is eating something;eat;food,food,eat
